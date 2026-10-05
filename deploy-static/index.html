@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#FFFFFF">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Geist:wght@300..700&family=JetBrains+Mono:wght@300..600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Integraciones Judiciales · Dashboard</title>
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar is-open" id="sidebar">
+    <div class="brand-block"><div class="brand-eyebrow">PODER JUDICIAL DEL PERÚ</div><div class="brand-mark">SIJUD</div><div class="brand-sub">Sistema de Justicia Digital</div><div class="program-line"><span class="diamond"></span>Integraciones judiciales</div></div>
+    <div class="side-section"><div class="side-label">NAVEGACIÓN</div><div id="nav"></div></div>
+    <div class="sidebar-footer"><div class="side-label">FUENTE</div><div class="source-name">Reporte Estadístico de Integraciones v2</div><div class="source-meta">NORMALIZACIÓN AUTOMÁTICA</div></div>
+  </aside>
+  <button class="scrim" id="scrim" aria-label="Cerrar menú"></button>
+  <main class="main-content">
+    <button class="mobile-menu" id="menuBtn" aria-label="Abrir navegación">☰</button>
+    <header class="hero">
+      <div class="eyebrow"><span class="num">01</span> · PANEL ESTADÍSTICO</div>
+      <div class="hero-grid"><div><h1 id="title">Integraciones <em>judiciales</em></h1><p class="lede" id="subtitle"></p></div><div class="hero-total"><span>TOTAL FILTRADO</span><strong id="heroTotal">0</strong><small id="metric">registros</small></div></div>
+      <div class="hero-meta"><span id="source"></span><span id="updated"></span><span>HOY · 05 OCT 2026</span></div>
+    </header>
+    <section class="section"><div class="eyebrow"><span class="num">02</span> · FILTROS</div><h2>Desagregación <em>dinámica</em></h2><p class="lede">Los filtros se encadenan según las dimensiones reales de cada integración.</p><div class="filters-panel" id="filters"></div></section>
+    <section class="section"><div class="eyebrow"><span class="num">03</span> · RESUMEN</div><h2>Lectura <em>ejecutiva</em></h2><div class="kpi-grid" id="kpis"></div><div class="chart-card"><div class="chart-title"><span>EVOLUCIÓN ANUAL</span><small id="periods"></small></div><div class="bars" id="bars"></div></div></section>
+    <section class="section"><div class="section-row"><div><div class="eyebrow"><span class="num">04</span> · DETALLE</div><h2>Tabla <em>jerárquica</em></h2></div><button class="export-button" id="exportBtn">EXPORTAR CSV</button></div><p class="lede">Criterio tipo tabla dinámica: niveles expandibles y años como columnas.</p><div class="pivot-wrap"><div class="pivot-head"><span>TABLA DINÁMICA</span><small id="rowsCount"></small></div><div class="pivot-scroll"><table class="pivot-table" id="pivot"></table></div></div></section>
+    <footer class="page-footer" id="footer"></footer>
+  </main>
+</div>
+<script src="./data.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
