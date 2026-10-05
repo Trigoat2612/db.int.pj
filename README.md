@@ -11,6 +11,7 @@ Dashboard responsive para consolidar las integraciones estadísticas del EJE No 
 - Replica el criterio jerárquico de la hoja **Res Sentido de Fallo**, con niveles expandibles y años en columnas.
 - Permite exportar el resultado filtrado a CSV.
 - No inventa dimensiones ausentes: si una hoja no tiene CSJ o sede, ese filtro no aparece.
+- Compara textos sin distinguir mayúsculas/minúsculas y normaliza espacios, evitando duplicados como `Lima Este` / `LIMA ESTE`.
 
 ## Stack
 
@@ -29,6 +30,7 @@ src/
   lib/               filtros, agregaciones y tabla dinámica
 scripts/
   import-xlsx.mjs    importador / normalizador
+  validate-data.mjs  validación de duplicados por formato
 data/
   source.xlsx        Excel fuente
 ```
@@ -40,10 +42,13 @@ data/
 
 ```bash
 npm run data:refresh
+npm run data:validate
 npm run build
 ```
 
-El importador vuelve a generar `src/data/integrations.json`. Para incorporar nuevas integraciones, agrega su mapeo en `CONFIG` dentro de `scripts/import-xlsx.mjs`.
+El importador vuelve a generar `src/data/integrations.json`, limpia espacios y unifica variantes que solo difieren por mayúsculas/minúsculas. El validador comprueba que no queden duplicados de formato en CSJ, sede u órgano.
+
+Para incorporar nuevas integraciones, agrega su mapeo en `CONFIG` dentro de `scripts/import-xlsx.mjs`.
 
 ## Desarrollo local
 
@@ -59,6 +64,18 @@ npm run build
 ```
 
 El resultado queda en `dist/` y puede desplegarse directamente en Vercel.
+
+## Actualizar el sitio desplegado en Vercel
+
+Después de actualizar y validar el Excel:
+
+```bash
+git add .
+git commit -m "data: actualizar estadísticas de integraciones"
+git push origin main
+```
+
+Si el proyecto de Vercel está conectado a `main`, el nuevo commit dispara automáticamente un nuevo deployment.
 
 ## Integraciones cargadas
 

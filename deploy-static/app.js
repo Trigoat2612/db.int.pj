@@ -4,11 +4,15 @@
   const state = { integration: ALL, years: [], csj: ALL, sede: ALL, organo: ALL, collapsed: new Set() };
   const $ = (id) => document.getElementById(id);
   const fmt = (n) => new Intl.NumberFormat('es-PE').format(n || 0);
-  const uniq = (xs) => [...new Set(xs.filter(Boolean))].sort((a,b)=>String(a).localeCompare(String(b),'es',{sensitivity:'base'}));
+  const cleanText = (v) => String(v ?? '').normalize('NFKC').trim().replace(/\s+/g,' ');
+  const textKey = (v) => cleanText(v).toLocaleUpperCase('es-PE');
+  const sameText = (a,b) => textKey(a) === textKey(b);
+  const displayScore = (v) => { const u=v.toLocaleUpperCase('es-PE'), l=v.toLocaleLowerCase('es-PE'); if(v===u&&v!==l)return 0; if(v===l&&v!==u)return 1; return 2; };
+  const uniq = (xs) => { const m=new Map(); xs.forEach(raw=>{const v=cleanText(raw); if(!v)return; const k=textKey(v), sc=displayScore(v), cur=m.get(k); if(!cur||sc>cur.sc)m.set(k,{v,sc});}); return [...m.values()].map(x=>x.v).sort((a,b)=>a.localeCompare(b,'es',{sensitivity:'base'})); };
   const sum = (rs) => rs.reduce((s,r)=>s+r.cantidad,0);
-  const byState = () => data.records.filter(r => (state.integration===ALL||r.integration===state.integration) && (!state.years.length||state.years.includes(r.year)) && (state.csj===ALL||r.csj===state.csj) && (state.sede===ALL||r.sede===state.sede) && (state.organo===ALL||r.organo===state.organo));
-  const integrationRows = () => data.records.filter(r => state.integration===ALL || r.integration===state.integration);
-  const meta = () => data.integrations.find(i => i.name===state.integration);
+  const byState = () => data.records.filter(r => (state.integration===ALL||sameText(r.integration,state.integration)) && (!state.years.length||state.years.includes(r.year)) && (state.csj===ALL||sameText(r.csj,state.csj)) && (state.sede===ALL||sameText(r.sede,state.sede)) && (state.organo===ALL||sameText(r.organo,state.organo)));
+  const integrationRows = () => data.records.filter(r => state.integration===ALL || sameText(r.integration,state.integration));
+  const meta = () => data.integrations.find(i => sameText(i.name,state.integration));
   const label = (title) => title.split(' ').map((x,i,a)=> i===a.length-1?`<em>${x}</em>`:x).join(' ');
 
   function renderNav(){
@@ -25,8 +29,8 @@
   }
   function renderFilters(){
     const base=integrationRows(); const years=[...new Set(base.map(r=>r.year))].sort((a,b)=>a-b);
-    const csjs=uniq(base.map(r=>r.csj)); const byCsj=base.filter(r=>state.csj===ALL||r.csj===state.csj);
-    const sedes=uniq(byCsj.map(r=>r.sede)); const bySede=byCsj.filter(r=>state.sede===ALL||r.sede===state.sede); const organos=uniq(bySede.map(r=>r.organo));
+    const csjs=uniq(base.map(r=>r.csj)); const byCsj=base.filter(r=>state.csj===ALL||sameText(r.csj,state.csj));
+    const sedes=uniq(byCsj.map(r=>r.sede)); const bySede=byCsj.filter(r=>state.sede===ALL||sameText(r.sede,state.sede)); const organos=uniq(bySede.map(r=>r.organo));
     const sel=(id,labelText,vals,value)=> vals.length?`<label><span>${labelText}</span><select id="${id}"><option value="${ALL}">Todas</option>${vals.map(v=>`<option ${v===value?'selected':''}>${v}</option>`).join('')}</select></label>`:'';
     $('filters').innerHTML=`<div class="filter-heading"><span>⌁</span><span>Filtros de análisis</span><button id="resetBtn">RESTABLECER</button></div><div class="year-pills">${years.map(y=>`<button class="${state.years.includes(y)?'active':''}" data-year="${y}"><span class="dot"></span>${y}</button>`).join('')}</div><div class="select-grid">${sel('csj','CSJ / DISTRITO JUDICIAL',csjs,state.csj)}${sel('sede','SEDE',sedes,state.sede)}${sel('organo','ÓRGANO JURISDICCIONAL',organos,state.organo)}</div>`;
     $('resetBtn').onclick=()=>{state.years=[]; state.csj=state.sede=state.organo=ALL; render();};
@@ -48,15 +52,15 @@
   function buildDims(rs,years,offset=0,prefix=''){
     const kp=prefix?prefix+'/':''; const hasCsj=rs.some(r=>r.csj), hasSede=rs.some(r=>r.sede);
     if(hasCsj){
-      const roots=uniq(rs.map(r=>r.csj)).map(c=>{const cr=rs.filter(r=>r.csj===c); if(hasSede&&cr.some(r=>r.sede)){const ch=uniq(cr.map(r=>r.sede)).map(s=>{const sr=cr.filter(r=>r.sede===s);const org=uniq(sr.map(r=>r.organo)).map(o=>node(o,`${kp}c:${c}/s:${s}/o:${o}`,offset+2,sr.filter(r=>r.organo===o),years));return node(s,`${kp}c:${c}/s:${s}`,offset+1,sr,years,org)});return node(c,`${kp}c:${c}`,offset,cr,years,ch)} const org=uniq(cr.map(r=>r.organo)).map(o=>node(o,`${kp}c:${c}/o:${o}`,offset+1,cr.filter(r=>r.organo===o),years));return node(c,`${kp}c:${c}`,offset,cr,years,org)});
+      const roots=uniq(rs.map(r=>r.csj)).map(c=>{const cr=rs.filter(r=>sameText(r.csj,c)); if(hasSede&&cr.some(r=>r.sede)){const ch=uniq(cr.map(r=>r.sede)).map(s=>{const sr=cr.filter(r=>sameText(r.sede,s));const org=uniq(sr.map(r=>r.organo)).map(o=>node(o,`${kp}c:${c}/s:${s}/o:${o}`,offset+2,sr.filter(r=>sameText(r.organo,o)),years));return node(s,`${kp}c:${c}/s:${s}`,offset+1,sr,years,org)});return node(c,`${kp}c:${c}`,offset,cr,years,ch)} const org=uniq(cr.map(r=>r.organo)).map(o=>node(o,`${kp}c:${c}/o:${o}`,offset+1,cr.filter(r=>sameText(r.organo,o)),years));return node(c,`${kp}c:${c}`,offset,cr,years,org)});
       const without=rs.filter(r=>!r.csj); return without.length?[...roots,...buildDims(without,years,offset,`${kp}sin-csj`)]:roots;
     }
-    if(hasSede) return uniq(rs.map(r=>r.sede)).map(s=>{const sr=rs.filter(r=>r.sede===s);const org=uniq(sr.map(r=>r.organo)).map(o=>node(o,`${kp}s:${s}/o:${o}`,offset+1,sr.filter(r=>r.organo===o),years));return node(s,`${kp}s:${s}`,offset,sr,years,org)});
-    return uniq(rs.map(r=>r.organo)).map(o=>node(o,`${kp}o:${o}`,offset,rs.filter(r=>r.organo===o),years));
+    if(hasSede) return uniq(rs.map(r=>r.sede)).map(s=>{const sr=rs.filter(r=>sameText(r.sede,s));const org=uniq(sr.map(r=>r.organo)).map(o=>node(o,`${kp}s:${s}/o:${o}`,offset+1,sr.filter(r=>sameText(r.organo,o)),years));return node(s,`${kp}s:${s}`,offset,sr,years,org)});
+    return uniq(rs.map(r=>r.organo)).map(o=>node(o,`${kp}o:${o}`,offset,rs.filter(r=>sameText(r.organo,o)),years));
   }
   function buildPivot(rs,years){
     const ints=uniq(rs.map(r=>r.integration));
-    if(ints.length>1) return ints.map(i=>{const ir=rs.filter(r=>r.integration===i); return node(i,`i:${i}`,0,ir,years,buildDims(ir,years,1,`i:${i}`));});
+    if(ints.length>1) return ints.map(i=>{const ir=rs.filter(r=>sameText(r.integration,i)); return node(i,`i:${i}`,0,ir,years,buildDims(ir,years,1,`i:${i}`));});
     return buildDims(rs,years);
   }
   function renderPivot(rs,availableYears){

@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-10-05",
-  "source": "Reporte Estadistico de la Integraciones v2.xlsx",
+  "source": "source.xlsx",
   "integrations": [
     {
       "name": "Sentido de Fallo",
@@ -468,7 +468,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -477,7 +477,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -486,7 +486,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -495,7 +495,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -504,7 +504,7 @@
       "year": 2014,
       "csj": null,
       "sede": "JPL Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 105
     },
     {
@@ -513,7 +513,7 @@
       "year": 2014,
       "csj": null,
       "sede": "JPL Comisaria Vitarte - ATE (Sede Separadora)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 38
     },
     {
@@ -522,7 +522,7 @@
       "year": 2014,
       "csj": null,
       "sede": "JPL Santa Anita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 376
     },
     {
@@ -531,7 +531,7 @@
       "year": 2014,
       "csj": null,
       "sede": "JPL Santa Anita",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 12
     },
     {
@@ -540,7 +540,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Juz. Mixto Los Manzanos - ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -549,7 +549,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Juz. Mixto Los Manzanos - ATE",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 204
     },
     {
@@ -558,7 +558,7 @@
       "year": 2014,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 91
     },
     {
@@ -567,7 +567,7 @@
       "year": 2014,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 270
     },
     {
@@ -576,7 +576,7 @@
       "year": 2014,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 410
     },
     {
@@ -585,7 +585,7 @@
       "year": 2014,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 6
     },
     {
@@ -594,7 +594,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 346
     },
     {
@@ -603,7 +603,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 196
     },
     {
@@ -612,7 +612,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 85
     },
     {
@@ -621,7 +621,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Chucuito",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 691
     },
     {
@@ -630,7 +630,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Cruz del Sur - ATE",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 4623
     },
     {
@@ -639,7 +639,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 232
     },
     {
@@ -648,7 +648,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2179
     },
     {
@@ -657,7 +657,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 57
     },
     {
@@ -666,7 +666,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 110
     },
     {
@@ -675,7 +675,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Las Flores - SJL",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 288
     },
     {
@@ -684,7 +684,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1208
     },
     {
@@ -693,7 +693,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Pariachi - ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 256
     },
     {
@@ -702,7 +702,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Quechuas",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1881
     },
     {
@@ -711,7 +711,7 @@
       "year": 2014,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 209
     },
     {
@@ -720,7 +720,7 @@
       "year": 2015,
       "csj": null,
       "sede": "JPL Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 78
     },
     {
@@ -729,7 +729,7 @@
       "year": 2015,
       "csj": null,
       "sede": "JPL Comisaria Vitarte - ATE (Sede Separadora)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 207
     },
     {
@@ -738,7 +738,7 @@
       "year": 2015,
       "csj": null,
       "sede": "JPL Santa Anita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -747,7 +747,7 @@
       "year": 2015,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 303
     },
     {
@@ -756,7 +756,7 @@
       "year": 2015,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 159
     },
     {
@@ -765,7 +765,7 @@
       "year": 2015,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 454
     },
     {
@@ -774,7 +774,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1387
     },
     {
@@ -783,7 +783,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5133
     },
     {
@@ -792,7 +792,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1560
     },
     {
@@ -801,7 +801,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 70
     },
     {
@@ -810,7 +810,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Chucuito",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1174
     },
     {
@@ -819,7 +819,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Chucuito",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -828,7 +828,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Cruz del Sur - ATE",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 5095
     },
     {
@@ -837,7 +837,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 2
     },
     {
@@ -846,7 +846,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6991
     },
     {
@@ -855,7 +855,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Las Flores - SJL",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 265
     },
     {
@@ -864,7 +864,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 545
     },
     {
@@ -873,7 +873,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Lurigancho Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 101
     },
     {
@@ -882,7 +882,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Lurigancho Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -891,7 +891,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 30
     },
     {
@@ -900,7 +900,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 7
     },
     {
@@ -909,7 +909,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Pariachi - ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8021
     },
     {
@@ -918,7 +918,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Pariachi - ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 11
     },
     {
@@ -927,7 +927,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Pariachi II - ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1336
     },
     {
@@ -936,7 +936,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Quechuas",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2703
     },
     {
@@ -945,7 +945,7 @@
       "year": 2015,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 237
     },
     {
@@ -954,7 +954,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 5589
     },
     {
@@ -963,7 +963,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 347
     },
     {
@@ -972,7 +972,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 260
     },
     {
@@ -981,7 +981,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13303
     },
     {
@@ -990,7 +990,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 656
     },
     {
@@ -999,7 +999,7 @@
       "year": 2016,
       "csj": null,
       "sede": "JPL Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6
     },
     {
@@ -1008,7 +1008,7 @@
       "year": 2016,
       "csj": null,
       "sede": "MBJ DE HUAYCAN",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -1017,7 +1017,7 @@
       "year": 2016,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 39
     },
     {
@@ -1026,7 +1026,7 @@
       "year": 2016,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 45
     },
     {
@@ -1035,7 +1035,7 @@
       "year": 2016,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 306
     },
     {
@@ -1044,7 +1044,7 @@
       "year": 2016,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15184
     },
     {
@@ -1053,7 +1053,7 @@
       "year": 2016,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1198
     },
     {
@@ -1062,7 +1062,7 @@
       "year": 2016,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7592
     },
     {
@@ -1071,7 +1071,7 @@
       "year": 2016,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 599
     },
     {
@@ -1080,7 +1080,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1840
     },
     {
@@ -1089,7 +1089,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6222
     },
     {
@@ -1098,7 +1098,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 2200
     },
     {
@@ -1107,7 +1107,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 34
     },
     {
@@ -1116,7 +1116,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 11178
     },
     {
@@ -1125,7 +1125,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 694
     },
     {
@@ -1134,7 +1134,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 520
     },
     {
@@ -1143,7 +1143,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Cruz del Sur - ATE",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 647
     },
     {
@@ -1152,7 +1152,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 26606
     },
     {
@@ -1161,7 +1161,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1312
     },
     {
@@ -1170,7 +1170,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 358
     },
     {
@@ -1179,7 +1179,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 622
     },
     {
@@ -1188,7 +1188,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5818
     },
     {
@@ -1197,7 +1197,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Los Frutales",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 9022
     },
     {
@@ -1206,7 +1206,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 210
     },
     {
@@ -1215,7 +1215,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Lurigancho Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 228
     },
     {
@@ -1224,7 +1224,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Lurigancho Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 9
     },
     {
@@ -1233,7 +1233,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 171
     },
     {
@@ -1242,7 +1242,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 29
     },
     {
@@ -1251,7 +1251,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Pariachi - ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 13662
     },
     {
@@ -1260,7 +1260,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Pariachi II - ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 11
     },
     {
@@ -1269,7 +1269,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Pariachi II - ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 585
     },
     {
@@ -1278,7 +1278,7 @@
       "year": 2016,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 208
     },
     {
@@ -1287,7 +1287,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 10975
     },
     {
@@ -1296,7 +1296,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1080
     },
     {
@@ -1305,7 +1305,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 4056
     },
     {
@@ -1314,7 +1314,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16673
     },
     {
@@ -1323,7 +1323,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1462
     },
     {
@@ -1332,7 +1332,7 @@
       "year": 2017,
       "csj": null,
       "sede": "MBJ DE HUAYCAN",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -1341,7 +1341,7 @@
       "year": 2017,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16
     },
     {
@@ -1350,7 +1350,7 @@
       "year": 2017,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 27
     },
     {
@@ -1359,7 +1359,7 @@
       "year": 2017,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 301
     },
     {
@@ -1368,7 +1368,7 @@
       "year": 2017,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16952
     },
     {
@@ -1377,7 +1377,7 @@
       "year": 2017,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1962
     },
     {
@@ -1386,7 +1386,7 @@
       "year": 2017,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8476
     },
     {
@@ -1395,7 +1395,7 @@
       "year": 2017,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 981
     },
     {
@@ -1404,7 +1404,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 378
     },
     {
@@ -1413,7 +1413,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 535
     },
     {
@@ -1422,7 +1422,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5208
     },
     {
@@ -1431,7 +1431,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 429
     },
     {
@@ -1440,7 +1440,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 49
     },
     {
@@ -1449,7 +1449,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 21950
     },
     {
@@ -1458,7 +1458,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2160
     },
     {
@@ -1467,7 +1467,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 8112
     },
     {
@@ -1476,7 +1476,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 33346
     },
     {
@@ -1485,7 +1485,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2924
     },
     {
@@ -1494,7 +1494,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 964
     },
     {
@@ -1503,7 +1503,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 30
     },
     {
@@ -1512,7 +1512,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1564
     },
     {
@@ -1521,7 +1521,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 969
     },
     {
@@ -1530,7 +1530,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5
     },
     {
@@ -1539,7 +1539,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Los Frutales",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 12650
     },
     {
@@ -1548,7 +1548,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 319
     },
     {
@@ -1557,7 +1557,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Lurigancho Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 336
     },
     {
@@ -1566,7 +1566,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Lurigancho Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 11
     },
     {
@@ -1575,7 +1575,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 408
     },
     {
@@ -1584,7 +1584,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 145
     },
     {
@@ -1593,7 +1593,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Pariachi - ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 18146
     },
     {
@@ -1602,7 +1602,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Quechuas",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -1611,7 +1611,7 @@
       "year": 2017,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 217
     },
     {
@@ -1620,7 +1620,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 11617
     },
     {
@@ -1629,7 +1629,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1387
     },
     {
@@ -1638,7 +1638,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1399
     },
     {
@@ -1647,7 +1647,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 17995
     },
     {
@@ -1656,7 +1656,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2152
     },
     {
@@ -1665,7 +1665,7 @@
       "year": 2018,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 14
     },
     {
@@ -1674,7 +1674,7 @@
       "year": 2018,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5
     },
     {
@@ -1683,7 +1683,7 @@
       "year": 2018,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 95
     },
     {
@@ -1692,7 +1692,7 @@
       "year": 2018,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 18928
     },
     {
@@ -1701,7 +1701,7 @@
       "year": 2018,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2282
     },
     {
@@ -1710,7 +1710,7 @@
       "year": 2018,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 9464
     },
     {
@@ -1719,7 +1719,7 @@
       "year": 2018,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1141
     },
     {
@@ -1728,7 +1728,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 420
     },
     {
@@ -1737,7 +1737,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 12
     },
     {
@@ -1746,7 +1746,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 277
     },
     {
@@ -1755,7 +1755,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4004
     },
     {
@@ -1764,7 +1764,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1373
     },
     {
@@ -1773,7 +1773,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 18
     },
     {
@@ -1782,7 +1782,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 23234
     },
     {
@@ -1791,7 +1791,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2774
     },
     {
@@ -1800,7 +1800,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 2798
     },
     {
@@ -1809,7 +1809,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 35990
     },
     {
@@ -1818,7 +1818,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4304
     },
     {
@@ -1827,7 +1827,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 586
     },
     {
@@ -1836,7 +1836,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 42
     },
     {
@@ -1845,7 +1845,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 6950
     },
     {
@@ -1854,7 +1854,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 160
     },
     {
@@ -1863,7 +1863,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 23
     },
     {
@@ -1872,7 +1872,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Los Frutales",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 9006
     },
     {
@@ -1881,7 +1881,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 110
     },
     {
@@ -1890,7 +1890,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 958
     },
     {
@@ -1899,7 +1899,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 111
     },
     {
@@ -1908,7 +1908,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Pariachi - ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 21667
     },
     {
@@ -1917,7 +1917,7 @@
       "year": 2018,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 144
     },
     {
@@ -1926,7 +1926,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13882
     },
     {
@@ -1935,7 +1935,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1310
     },
     {
@@ -1944,7 +1944,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 418
     },
     {
@@ -1953,7 +1953,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13599
     },
     {
@@ -1962,7 +1962,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2774
     },
     {
@@ -1971,7 +1971,7 @@
       "year": 2019,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 4
     },
     {
@@ -1980,7 +1980,7 @@
       "year": 2019,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8
     },
     {
@@ -1989,7 +1989,7 @@
       "year": 2019,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6
     },
     {
@@ -1998,7 +1998,7 @@
       "year": 2019,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 49
     },
     {
@@ -2007,7 +2007,7 @@
       "year": 2019,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -2016,7 +2016,7 @@
       "year": 2019,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15740
     },
     {
@@ -2025,7 +2025,7 @@
       "year": 2019,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3302
     },
     {
@@ -2034,7 +2034,7 @@
       "year": 2019,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7870
     },
     {
@@ -2043,7 +2043,7 @@
       "year": 2019,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1651
     },
     {
@@ -2052,7 +2052,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 550
     },
     {
@@ -2061,7 +2061,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 62
     },
     {
@@ -2070,7 +2070,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 212
     },
     {
@@ -2079,7 +2079,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4833
     },
     {
@@ -2088,7 +2088,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1045
     },
     {
@@ -2097,7 +2097,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 15
     },
     {
@@ -2106,7 +2106,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 27764
     },
     {
@@ -2115,7 +2115,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2620
     },
     {
@@ -2124,7 +2124,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 836
     },
     {
@@ -2133,7 +2133,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 27198
     },
     {
@@ -2142,7 +2142,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5548
     },
     {
@@ -2151,7 +2151,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 224
     },
     {
@@ -2160,7 +2160,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 62
     },
     {
@@ -2169,7 +2169,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 8698
     },
     {
@@ -2178,7 +2178,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 10
     },
     {
@@ -2187,7 +2187,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 12
     },
     {
@@ -2196,7 +2196,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Los Frutales",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5970
     },
     {
@@ -2205,7 +2205,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 75
     },
     {
@@ -2214,7 +2214,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 431
     },
     {
@@ -2223,7 +2223,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5
     },
     {
@@ -2232,7 +2232,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 127
     },
     {
@@ -2241,7 +2241,7 @@
       "year": 2019,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 52
     },
     {
@@ -2250,7 +2250,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 3745
     },
     {
@@ -2259,7 +2259,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 525
     },
     {
@@ -2268,7 +2268,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 165
     },
     {
@@ -2277,7 +2277,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6633
     },
     {
@@ -2286,7 +2286,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1780
     },
     {
@@ -2295,7 +2295,7 @@
       "year": 2020,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 4
     },
     {
@@ -2304,7 +2304,7 @@
       "year": 2020,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8
     },
     {
@@ -2313,7 +2313,7 @@
       "year": 2020,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 94
     },
     {
@@ -2322,7 +2322,7 @@
       "year": 2020,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6028
     },
     {
@@ -2331,7 +2331,7 @@
       "year": 2020,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1142
     },
     {
@@ -2340,7 +2340,7 @@
       "year": 2020,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 3014
     },
     {
@@ -2349,7 +2349,7 @@
       "year": 2020,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 571
     },
     {
@@ -2358,7 +2358,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 68
     },
     {
@@ -2367,7 +2367,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 16
     },
     {
@@ -2376,7 +2376,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 45
     },
     {
@@ -2385,7 +2385,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2284
     },
     {
@@ -2394,7 +2394,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 379
     },
     {
@@ -2403,7 +2403,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6
     },
     {
@@ -2412,7 +2412,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7490
     },
     {
@@ -2421,7 +2421,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1050
     },
     {
@@ -2430,7 +2430,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 330
     },
     {
@@ -2439,7 +2439,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13266
     },
     {
@@ -2448,7 +2448,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3560
     },
     {
@@ -2457,7 +2457,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 156
     },
     {
@@ -2466,7 +2466,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 208
     },
     {
@@ -2475,7 +2475,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 2126
     },
     {
@@ -2484,7 +2484,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Las Flores - Principal -SJL",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -2493,7 +2493,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1087
     },
     {
@@ -2502,7 +2502,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Los Frutales",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 708
     },
     {
@@ -2511,7 +2511,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 24
     },
     {
@@ -2520,7 +2520,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 311
     },
     {
@@ -2529,7 +2529,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 29
     },
     {
@@ -2538,7 +2538,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 36
     },
     {
@@ -2547,7 +2547,7 @@
       "year": 2020,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -2556,7 +2556,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 10852
     },
     {
@@ -2565,7 +2565,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 351
     },
     {
@@ -2574,7 +2574,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 223
     },
     {
@@ -2583,7 +2583,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15332
     },
     {
@@ -2592,7 +2592,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2350
     },
     {
@@ -2601,7 +2601,7 @@
       "year": 2021,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8
     },
     {
@@ -2610,7 +2610,7 @@
       "year": 2021,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 3
     },
     {
@@ -2619,7 +2619,7 @@
       "year": 2021,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 46
     },
     {
@@ -2628,7 +2628,7 @@
       "year": 2021,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 17684
     },
     {
@@ -2637,7 +2637,7 @@
       "year": 2021,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 798
     },
     {
@@ -2646,7 +2646,7 @@
       "year": 2021,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8842
     },
     {
@@ -2655,7 +2655,7 @@
       "year": 2021,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 399
     },
     {
@@ -2664,7 +2664,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 20
     },
     {
@@ -2673,7 +2673,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 34
     },
     {
@@ -2682,7 +2682,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 70
     },
     {
@@ -2691,7 +2691,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 19
     },
     {
@@ -2700,7 +2700,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 520
     },
     {
@@ -2709,7 +2709,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Chimú - Zona A",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -2718,7 +2718,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 21704
     },
     {
@@ -2727,7 +2727,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 702
     },
     {
@@ -2736,7 +2736,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 446
     },
     {
@@ -2745,7 +2745,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 30664
     },
     {
@@ -2754,7 +2754,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4700
     },
     {
@@ -2763,7 +2763,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 278
     },
     {
@@ -2772,7 +2772,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2752
     },
     {
@@ -2781,7 +2781,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1772
     },
     {
@@ -2790,7 +2790,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1509
     },
     {
@@ -2799,7 +2799,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 19
     },
     {
@@ -2808,7 +2808,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 646
     },
     {
@@ -2817,7 +2817,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 90
     },
     {
@@ -2826,7 +2826,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 18
     },
     {
@@ -2835,7 +2835,7 @@
       "year": 2021,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -2844,7 +2844,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 11606
     },
     {
@@ -2853,7 +2853,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 699
     },
     {
@@ -2862,7 +2862,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 289
     },
     {
@@ -2871,7 +2871,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15102
     },
     {
@@ -2880,7 +2880,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3649
     },
     {
@@ -2889,7 +2889,7 @@
       "year": 2022,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 14
     },
     {
@@ -2898,7 +2898,7 @@
       "year": 2022,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12
     },
     {
@@ -2907,7 +2907,7 @@
       "year": 2022,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 243
     },
     {
@@ -2916,7 +2916,7 @@
       "year": 2022,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12392
     },
     {
@@ -2925,7 +2925,7 @@
       "year": 2022,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 804
     },
     {
@@ -2934,7 +2934,7 @@
       "year": 2022,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6196
     },
     {
@@ -2943,7 +2943,7 @@
       "year": 2022,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 402
     },
     {
@@ -2952,7 +2952,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 130
     },
     {
@@ -2961,7 +2961,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4
     },
     {
@@ -2970,7 +2970,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 399
     },
     {
@@ -2979,7 +2979,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 33
     },
     {
@@ -2988,7 +2988,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1176
     },
     {
@@ -2997,7 +2997,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 23212
     },
     {
@@ -3006,7 +3006,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1398
     },
     {
@@ -3015,7 +3015,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 578
     },
     {
@@ -3024,7 +3024,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 30204
     },
     {
@@ -3033,7 +3033,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7298
     },
     {
@@ -3042,7 +3042,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 208
     },
     {
@@ -3051,7 +3051,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 836
     },
     {
@@ -3060,7 +3060,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 170
     },
     {
@@ -3069,7 +3069,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3340
     },
     {
@@ -3078,7 +3078,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 135
     },
     {
@@ -3087,7 +3087,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 353
     },
     {
@@ -3096,7 +3096,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 110
     },
     {
@@ -3105,7 +3105,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 752
     },
     {
@@ -3114,7 +3114,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 361
     },
     {
@@ -3123,7 +3123,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 752
     },
     {
@@ -3132,7 +3132,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 361
     },
     {
@@ -3141,7 +3141,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Simon Bolivar",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 196
     },
     {
@@ -3150,7 +3150,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Simon Bolivar",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 14
     },
     {
@@ -3159,7 +3159,7 @@
       "year": 2022,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 119
     },
     {
@@ -3168,7 +3168,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 10378
     },
     {
@@ -3177,7 +3177,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1493
     },
     {
@@ -3186,7 +3186,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 313
     },
     {
@@ -3195,7 +3195,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16311
     },
     {
@@ -3204,7 +3204,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3414
     },
     {
@@ -3213,7 +3213,7 @@
       "year": 2023,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 39
     },
     {
@@ -3222,7 +3222,7 @@
       "year": 2023,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 3
     },
     {
@@ -3231,7 +3231,7 @@
       "year": 2023,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 529
     },
     {
@@ -3240,7 +3240,7 @@
       "year": 2023,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 16
     },
     {
@@ -3249,7 +3249,7 @@
       "year": 2023,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13068
     },
     {
@@ -3258,7 +3258,7 @@
       "year": 2023,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1416
     },
     {
@@ -3267,7 +3267,7 @@
       "year": 2023,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6534
     },
     {
@@ -3276,7 +3276,7 @@
       "year": 2023,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 708
     },
     {
@@ -3285,7 +3285,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 92
     },
     {
@@ -3294,7 +3294,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -3303,7 +3303,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 251
     },
     {
@@ -3312,7 +3312,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 10
     },
     {
@@ -3321,7 +3321,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 969
     },
     {
@@ -3330,7 +3330,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 20756
     },
     {
@@ -3339,7 +3339,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2986
     },
     {
@@ -3348,7 +3348,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 626
     },
     {
@@ -3357,7 +3357,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 32622
     },
     {
@@ -3366,7 +3366,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6828
     },
     {
@@ -3375,7 +3375,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 2
     },
     {
@@ -3384,7 +3384,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 742
     },
     {
@@ -3393,7 +3393,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2987
     },
     {
@@ -3402,7 +3402,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 22
     },
     {
@@ -3411,7 +3411,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 558
     },
     {
@@ -3420,7 +3420,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 232
     },
     {
@@ -3429,7 +3429,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1306
     },
     {
@@ -3438,7 +3438,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 466
     },
     {
@@ -3447,7 +3447,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1306
     },
     {
@@ -3456,7 +3456,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 466
     },
     {
@@ -3465,7 +3465,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Simon Bolivar",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 356
     },
     {
@@ -3474,7 +3474,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Simon Bolivar",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 22
     },
     {
@@ -3483,7 +3483,7 @@
       "year": 2023,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 38
     },
     {
@@ -3492,7 +3492,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12303
     },
     {
@@ -3501,7 +3501,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4433
     },
     {
@@ -3510,7 +3510,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 191
     },
     {
@@ -3519,7 +3519,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 18531
     },
     {
@@ -3528,7 +3528,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4998
     },
     {
@@ -3537,7 +3537,7 @@
       "year": 2024,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13
     },
     {
@@ -3546,7 +3546,7 @@
       "year": 2024,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16
     },
     {
@@ -3555,7 +3555,7 @@
       "year": 2024,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -3564,7 +3564,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 168
     },
     {
@@ -3573,7 +3573,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13992
     },
     {
@@ -3582,7 +3582,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3072
     },
     {
@@ -3591,7 +3591,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6996
     },
     {
@@ -3600,7 +3600,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1536
     },
     {
@@ -3609,7 +3609,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 32
     },
     {
@@ -3618,7 +3618,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 10
     },
     {
@@ -3627,7 +3627,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 75
     },
     {
@@ -3636,7 +3636,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6
     },
     {
@@ -3645,7 +3645,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 476
     },
     {
@@ -3654,7 +3654,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 24606
     },
     {
@@ -3663,7 +3663,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8866
     },
     {
@@ -3672,7 +3672,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 382
     },
     {
@@ -3681,7 +3681,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 37062
     },
     {
@@ -3690,7 +3690,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 9996
     },
     {
@@ -3699,7 +3699,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 114
     },
     {
@@ -3708,7 +3708,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 2394
     },
     {
@@ -3717,7 +3717,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1120
     },
     {
@@ -3726,7 +3726,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15
     },
     {
@@ -3735,7 +3735,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 704
     },
     {
@@ -3744,7 +3744,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 191
     },
     {
@@ -3753,7 +3753,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1503
     },
     {
@@ -3762,7 +3762,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 545
     },
     {
@@ -3771,7 +3771,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1503
     },
     {
@@ -3780,7 +3780,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 545
     },
     {
@@ -3789,7 +3789,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16
     },
     {
@@ -3798,7 +3798,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12069
     },
     {
@@ -3807,7 +3807,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7445
     },
     {
@@ -3816,7 +3816,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 696
     },
     {
@@ -3825,7 +3825,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 13251
     },
     {
@@ -3834,7 +3834,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3542
     },
     {
@@ -3843,7 +3843,7 @@
       "year": 2025,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 4
     },
     {
@@ -3852,7 +3852,7 @@
       "year": 2025,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4
     },
     {
@@ -3861,7 +3861,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Modulo de Violencia Penal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -3870,7 +3870,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 100
     },
     {
@@ -3879,7 +3879,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15502
     },
     {
@@ -3888,7 +3888,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2624
     },
     {
@@ -3897,7 +3897,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7751
     },
     {
@@ -3906,7 +3906,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1312
     },
     {
@@ -3915,7 +3915,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12
     },
     {
@@ -3924,7 +3924,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4
     },
     {
@@ -3933,7 +3933,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 29
     },
     {
@@ -3942,7 +3942,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 442
     },
     {
@@ -3951,7 +3951,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 24138
     },
     {
@@ -3960,7 +3960,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 14890
     },
     {
@@ -3969,7 +3969,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1392
     },
     {
@@ -3978,7 +3978,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 26502
     },
     {
@@ -3987,7 +3987,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7084
     },
     {
@@ -3996,7 +3996,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 84
     },
     {
@@ -4005,7 +4005,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8
     },
     {
@@ -4014,7 +4014,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1140
     },
     {
@@ -4023,7 +4023,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 370
     },
     {
@@ -4032,7 +4032,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 18
     },
     {
@@ -4041,7 +4041,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 610
     },
     {
@@ -4050,7 +4050,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 141
     },
     {
@@ -4059,7 +4059,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede NCPP SANTA ROSA",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -4068,7 +4068,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2444
     },
     {
@@ -4077,7 +4077,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 364
     },
     {
@@ -4086,7 +4086,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Santa Rosa",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -4095,7 +4095,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2444
     },
     {
@@ -4104,7 +4104,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 364
     },
     {
@@ -4113,7 +4113,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7
     },
     {
@@ -4122,7 +4122,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -4131,7 +4131,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 10014
     },
     {
@@ -4140,7 +4140,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4292
     },
     {
@@ -4149,7 +4149,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 619
     },
     {
@@ -4158,7 +4158,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 10835
     },
     {
@@ -4167,7 +4167,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2876
     },
     {
@@ -4176,7 +4176,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Justicia Wasi",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -4185,7 +4185,7 @@
       "year": 2026,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 3
     },
     {
@@ -4194,7 +4194,7 @@
       "year": 2026,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
@@ -4203,7 +4203,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 176
     },
     {
@@ -4212,7 +4212,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 11976
     },
     {
@@ -4221,7 +4221,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Hilarion",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1652
     },
     {
@@ -4230,7 +4230,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 5988
     },
     {
@@ -4239,7 +4239,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 826
     },
     {
@@ -4248,7 +4248,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Camacho",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 195
     },
     {
@@ -4257,7 +4257,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6
     },
     {
@@ -4266,7 +4266,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -4275,7 +4275,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 33
     },
     {
@@ -4284,7 +4284,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2
     },
     {
@@ -4293,7 +4293,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 253
     },
     {
@@ -4302,7 +4302,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 20028
     },
     {
@@ -4311,7 +4311,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8584
     },
     {
@@ -4320,7 +4320,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Colectora",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1238
     },
     {
@@ -4329,7 +4329,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 21670
     },
     {
@@ -4338,7 +4338,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Fortaleza",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5752
     },
     {
@@ -4347,7 +4347,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 52
     },
     {
@@ -4356,7 +4356,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8
     },
     {
@@ -4365,7 +4365,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 876
     },
     {
@@ -4374,7 +4374,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 177
     },
     {
@@ -4383,7 +4383,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 14
     },
     {
@@ -4392,7 +4392,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 979
     },
     {
@@ -4401,7 +4401,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 179
     },
     {
@@ -4410,7 +4410,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3137
     },
     {
@@ -4419,7 +4419,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede NCPP de ATE",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 8
     },
     {
@@ -4428,7 +4428,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3137
     },
     {
@@ -4437,7 +4437,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 8
     },
     {
@@ -4446,7 +4446,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 9
     },
     {
@@ -4455,61 +4455,61 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
       "integration": "REDJUM",
       "sourceSheet": "REDJUM",
       "year": 2024,
-      "csj": "LIMA ESTE",
+      "csj": "Lima Este",
       "sede": null,
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 20
     },
     {
       "integration": "REDJUM",
       "sourceSheet": "REDJUM",
       "year": 2024,
-      "csj": "LIMA ESTE",
+      "csj": "Lima Este",
       "sede": null,
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1
     },
     {
       "integration": "REDJUM",
       "sourceSheet": "REDJUM",
       "year": 2025,
-      "csj": "LIMA ESTE",
+      "csj": "Lima Este",
       "sede": null,
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 21
     },
     {
       "integration": "REDJUM",
       "sourceSheet": "REDJUM",
       "year": 2025,
-      "csj": "LIMA ESTE",
+      "csj": "Lima Este",
       "sede": null,
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5
     },
     {
       "integration": "REDJUM",
       "sourceSheet": "REDJUM",
       "year": 2026,
-      "csj": "LIMA ESTE",
+      "csj": "Lima Este",
       "sede": null,
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 17
     },
     {
       "integration": "REDJUM",
       "sourceSheet": "REDJUM",
       "year": 2026,
-      "csj": "LIMA ESTE",
+      "csj": "Lima Este",
       "sede": null,
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -4527,7 +4527,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Chaclacayo",
-      "organo": "1º JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
+      "organo": "1o JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
       "cantidad": 18
     },
     {
@@ -4536,7 +4536,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
       "cantidad": 31
     },
     {
@@ -4545,7 +4545,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "3º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "3o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 31
     },
     {
@@ -4563,7 +4563,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "4º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "4o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 309
     },
     {
@@ -4608,7 +4608,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
       "cantidad": 128
     },
     {
@@ -4626,7 +4626,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "2o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 135
     },
     {
@@ -4644,7 +4644,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "4º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "4o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 62
     },
     {
@@ -4680,7 +4680,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 97
     },
     {
@@ -4698,7 +4698,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "2o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 235
     },
     {
@@ -4707,7 +4707,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 4
     },
     {
@@ -4716,7 +4716,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "4º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "4o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 20
     },
     {
@@ -4743,7 +4743,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 98
     },
     {
@@ -4761,7 +4761,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Sede Chaclacayo",
-      "organo": "2º JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
+      "organo": "2o JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
       "cantidad": 24
     },
     {
@@ -4770,7 +4770,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "2o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 228
     },
     {
@@ -4779,7 +4779,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
       "cantidad": 5
     },
     {
@@ -4788,7 +4788,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 17
     },
     {
@@ -4797,7 +4797,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "3º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "3o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 12
     },
     {
@@ -4824,7 +4824,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Chimú",
-      "organo": "4° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN  DE LURIGANCHO)",
+      "organo": "4° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN DE LURIGANCHO)",
       "cantidad": 87
     },
     {
@@ -4833,7 +4833,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 68
     },
     {
@@ -4842,7 +4842,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 82
     },
     {
@@ -4851,7 +4851,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "3º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "3o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 1
     },
     {
@@ -4860,7 +4860,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 22
     },
     {
@@ -4869,7 +4869,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "3º JUZGADO PAZ LETRADO-MBJ DE SAN JUAN DE LURIGANCHO",
+      "organo": "3o JUZGADO PAZ LETRADO-MBJ DE SAN JUAN DE LURIGANCHO",
       "cantidad": 54
     },
     {
@@ -4878,7 +4878,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Sede Chimú",
-      "organo": "4° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN  DE LURIGANCHO)",
+      "organo": "4° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN DE LURIGANCHO)",
       "cantidad": 98
     },
     {
@@ -4887,7 +4887,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 88
     },
     {
@@ -4896,7 +4896,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "3º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "3o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 148
     },
     {
@@ -4905,7 +4905,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "3º JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
+      "organo": "3o JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
       "cantidad": 7
     },
     {
@@ -4914,7 +4914,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 101
     },
     {
@@ -4923,7 +4923,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "MBJ DE SJ LURIGANCHO(Zona Media 1°,3° JPL)",
-      "organo": "3º JUZGADO PAZ LETRADO-MBJ DE SAN JUAN DE LURIGANCHO",
+      "organo": "3o JUZGADO PAZ LETRADO-MBJ DE SAN JUAN DE LURIGANCHO",
       "cantidad": 74
     },
     {
@@ -4932,7 +4932,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Chimú",
-      "organo": "5° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN  DE LURIGANCHO)",
+      "organo": "5° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN DE LURIGANCHO)",
       "cantidad": 4
     },
     {
@@ -4941,7 +4941,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 29
     },
     {
@@ -4950,7 +4950,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "6° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN  DE LURIGANCHO)",
+      "organo": "6° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN DE LURIGANCHO)",
       "cantidad": 16
     },
     {
@@ -4959,7 +4959,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 77
     },
     {
@@ -4968,7 +4968,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "6° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN  DE LURIGANCHO)",
+      "organo": "6° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN DE LURIGANCHO)",
       "cantidad": 33
     },
     {
@@ -4986,7 +4986,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "3º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "3o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 87
     },
     {
@@ -5049,7 +5049,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "4º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "4o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 3
     },
     {
@@ -5094,7 +5094,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "2o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 2
     },
     {
@@ -5112,7 +5112,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Chimú",
-      "organo": "7° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN  DE LURIGANCHO)",
+      "organo": "7° JUZGADO DE PAZ LETRADO (SEDE SAN JUAN DE LURIGANCHO)",
       "cantidad": 6
     },
     {
@@ -5121,7 +5121,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 01",
       "cantidad": 1
     },
     {
@@ -5148,7 +5148,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Chaclacayo",
-      "organo": "2º JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
+      "organo": "2o JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
       "cantidad": 2
     },
     {
@@ -5157,7 +5157,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "2º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "2o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 1
     },
     {
@@ -5229,7 +5229,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Separadora - Ate",
-      "organo": "1º JUZGADO DE TRABAJO - ZONAS 01, 02 Y 03 - SEDE LA MERCED",
+      "organo": "1o JUZGADO DE TRABAJO - ZONAS 01, 02 Y 03 - SEDE LA MERCED",
       "cantidad": 6
     },
     {
@@ -5256,7 +5256,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "2º JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
+      "organo": "2o JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
       "cantidad": 1
     },
     {
@@ -5265,7 +5265,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 1
     },
     {
@@ -5292,7 +5292,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "3º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "3o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 4
     },
     {
@@ -5337,7 +5337,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "Sede Separadora - Ate",
-      "organo": "1º JUZGADO DE TRABAJO - ZONAS 01, 02 Y 03 - SEDE LA MERCED",
+      "organo": "1o JUZGADO DE TRABAJO - ZONAS 01, 02 Y 03 - SEDE LA MERCED",
       "cantidad": 10
     },
     {
@@ -5382,7 +5382,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 2
     },
     {
@@ -5400,7 +5400,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Chaclacayo",
-      "organo": "3º JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
+      "organo": "3o JUZGADO DE PAZ LETRADO (LURIGANCHO-CHOSICA, CHACLACAYO)",
       "cantidad": 1
     },
     {
@@ -5409,7 +5409,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "3º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "3o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 3
     },
     {
@@ -5499,7 +5499,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "3º JUZGADO DE TRABAJO - ZONA 01",
+      "organo": "3o JUZGADO DE TRABAJO - ZONA 01",
       "cantidad": 6
     },
     {
@@ -5508,7 +5508,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Sede Puruchuco",
-      "organo": "3ª JUZGADO DE FAMILIA  (EX 4ª)",
+      "organo": "3a JUZGADO DE FAMILIA (EX 4a)",
       "cantidad": 1
     },
     {
@@ -5571,7 +5571,7 @@
       "year": 2026,
       "csj": "Lima Este",
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "3º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "3o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 1
     },
     {
@@ -5616,7 +5616,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": "Sede Puruchuco",
-      "organo": "3ª JUZGADO DE FAMILIA  (EX 4ª)",
+      "organo": "3a JUZGADO DE FAMILIA (EX 4a)",
       "cantidad": 1
     },
     {
@@ -5706,7 +5706,7 @@
       "year": 2024,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 55
     },
     {
@@ -5715,7 +5715,7 @@
       "year": 2024,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7
     },
     {
@@ -5724,7 +5724,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 14
     },
     {
@@ -5733,7 +5733,7 @@
       "year": 2024,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12
     },
     {
@@ -5742,7 +5742,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2833
     },
     {
@@ -5751,7 +5751,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1119
     },
     {
@@ -5760,7 +5760,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 245
     },
     {
@@ -5769,7 +5769,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 45
     },
     {
@@ -5778,7 +5778,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7
     },
     {
@@ -5787,7 +5787,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 878
     },
     {
@@ -5796,7 +5796,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7
     },
     {
@@ -5805,7 +5805,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 20088
     },
     {
@@ -5814,7 +5814,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 10304
     },
     {
@@ -5823,7 +5823,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 20716
     },
     {
@@ -5832,7 +5832,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8124
     },
     {
@@ -5841,7 +5841,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 3140
     },
     {
@@ -5850,7 +5850,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8737
     },
     {
@@ -5859,7 +5859,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6669
     },
     {
@@ -5868,7 +5868,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 41
     },
     {
@@ -5877,7 +5877,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7
     },
     {
@@ -5886,7 +5886,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1135
     },
     {
@@ -5895,7 +5895,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8
     },
     {
@@ -5904,7 +5904,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5
     },
     {
@@ -5913,7 +5913,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Puruchuco",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 276
     },
     {
@@ -5922,7 +5922,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 2983
     },
     {
@@ -5931,7 +5931,7 @@
       "year": 2024,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 393
     },
     {
@@ -5940,7 +5940,7 @@
       "year": 2024,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 105
     },
     {
@@ -5949,7 +5949,7 @@
       "year": 2025,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1
     },
     {
@@ -5958,7 +5958,7 @@
       "year": 2025,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7
     },
     {
@@ -5967,7 +5967,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 18
     },
     {
@@ -5976,7 +5976,7 @@
       "year": 2025,
       "csj": null,
       "sede": "MBJ DE SJ LURIGANCHO(Zona Alta 2°,6° JPL) Ex Roma",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1
     },
     {
@@ -5985,7 +5985,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 1259
     },
     {
@@ -5994,7 +5994,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 591
     },
     {
@@ -6003,7 +6003,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 266
     },
     {
@@ -6012,7 +6012,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 256
     },
     {
@@ -6021,7 +6021,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6
     },
     {
@@ -6030,7 +6030,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 816
     },
     {
@@ -6039,7 +6039,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 3
     },
     {
@@ -6048,7 +6048,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -6057,7 +6057,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 15769
     },
     {
@@ -6066,7 +6066,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 9748
     },
     {
@@ -6075,7 +6075,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 17072
     },
     {
@@ -6084,7 +6084,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7930
     },
     {
@@ -6093,7 +6093,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 4345
     },
     {
@@ -6102,7 +6102,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 9360
     },
     {
@@ -6111,7 +6111,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6099
     },
     {
@@ -6120,7 +6120,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 18
     },
     {
@@ -6129,7 +6129,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 8
     },
     {
@@ -6138,7 +6138,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 566
     },
     {
@@ -6147,7 +6147,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 4
     },
     {
@@ -6156,7 +6156,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7
     },
     {
@@ -6165,7 +6165,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Puruchuco",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 23
     },
     {
@@ -6174,7 +6174,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4619
     },
     {
@@ -6183,7 +6183,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1630
     },
     {
@@ -6192,7 +6192,7 @@
       "year": 2025,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 82
     },
     {
@@ -6201,7 +6201,7 @@
       "year": 2025,
       "csj": null,
       "sede": "Sede Camacho",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 3
     },
     {
@@ -6210,7 +6210,7 @@
       "year": 2026,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 1
     },
     {
@@ -6219,7 +6219,7 @@
       "year": 2026,
       "csj": null,
       "sede": "MBJ DEL AGUSTINO",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3
     },
     {
@@ -6228,7 +6228,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Los Meteorologos - La Molina-Cieneguilla",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8
     },
     {
@@ -6237,7 +6237,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Los Constructores-La Molina-Cieneguilla",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 256
     },
     {
@@ -6246,7 +6246,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 705
     },
     {
@@ -6255,7 +6255,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Matucana",
-      "organo": "JUZGADO MIXTO",
+      "organo": "Juzgado Mixto",
       "cantidad": 244
     },
     {
@@ -6264,7 +6264,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 16
     },
     {
@@ -6273,7 +6273,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4
     },
     {
@@ -6282,7 +6282,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chimú",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 466
     },
     {
@@ -6291,7 +6291,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 6
     },
     {
@@ -6300,7 +6300,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Universal",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5
     },
     {
@@ -6309,7 +6309,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 14392
     },
     {
@@ -6318,7 +6318,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fortaleza(Zona02) - Ate,Chaclacayo,L-Chosica",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 4722
     },
     {
@@ -6327,7 +6327,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 12299
     },
     {
@@ -6336,7 +6336,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 5200
     },
     {
@@ -6345,7 +6345,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Fontana(Zona03) - ElAgustino,LaMolina-C,StaAnita",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 2473
     },
     {
@@ -6354,7 +6354,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 7246
     },
     {
@@ -6363,7 +6363,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Hilarión(Zona01) - SJ Lurigancho",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3249
     },
     {
@@ -6372,7 +6372,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 10
     },
     {
@@ -6381,7 +6381,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 6
     },
     {
@@ -6390,7 +6390,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede La Merced",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 514
     },
     {
@@ -6399,7 +6399,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO DE PAZ LETRADO",
+      "organo": "Juzgado de Paz Letrado",
       "cantidad": 8
     },
     {
@@ -6408,7 +6408,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Chaclacayo",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 7
     },
     {
@@ -6417,7 +6417,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 3247
     },
     {
@@ -6426,7 +6426,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Separadora - Ate",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 61
     },
     {
@@ -6435,7 +6435,7 @@
       "year": 2026,
       "csj": null,
       "sede": "San Antonio",
-      "organo": "JUZGADO ESPECIALIZADO",
+      "organo": "Juzgado Especializado",
       "cantidad": 86
     },
     {
@@ -6444,7 +6444,7 @@
       "year": 2026,
       "csj": null,
       "sede": "Sede Camacho",
-      "organo": "SALA SUPERIOR",
+      "organo": "Sala Superior",
       "cantidad": 1982
     },
     {
@@ -7002,7 +7002,7 @@
       "year": 2024,
       "csj": "Lima Este",
       "sede": null,
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 03",
       "cantidad": 1,
       "tipo_instancia": "JUZGADO DE PAZ LETRADO"
     },
@@ -7022,7 +7022,7 @@
       "year": 2025,
       "csj": "Lima Este",
       "sede": null,
-      "organo": "1º JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
+      "organo": "1o JUZGADO DE PAZ LETRADO LABORAL - ZONA 02",
       "cantidad": 2,
       "tipo_instancia": "JUZGADO DE PAZ LETRADO"
     }

@@ -11,6 +11,19 @@ Los archivos `consulta 05102026xlsx.xlsx` y `Reporte Estadistico de la Integraci
 - Modelo común: `integration`, `year`, `csj`, `sede`, `organo`, `cantidad`
 - Las dimensiones inexistentes se conservan como `null`; no se infieren valores.
 
+
+## Normalización de texto
+
+La carga normaliza Unicode, espacios iniciales/finales y espacios repetidos. Además, las comparaciones de CSJ, sede y órgano son **case-insensitive**. Variantes como `Lima Este`, `LIMA ESTE` o ` lima   este ` se tratan como una sola categoría y se conserva una etiqueta de presentación canónica.
+
+Validación automática:
+
+```bash
+npm run data:validate
+```
+
+El comando falla si detecta variantes duplicadas por mayúsculas/minúsculas o espaciado.
+
 ## Control con Res Sentido de Fallo
 
 | Año | Total |

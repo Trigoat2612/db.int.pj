@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import payload from './data/integrations.json';
 import type { DataPayload, Filters } from './types';
-import { ALL, filterRecords, formatNumber, total, uniq } from './lib/data';
+import { ALL, filterRecords, formatNumber, sameText, total, uniq } from './lib/data';
 import { Sidebar } from './components/Sidebar';
 import { FiltersPanel } from './components/FiltersPanel';
 import { Kpis } from './components/Kpis';
@@ -25,11 +25,11 @@ export default function App() {
   const [filters, setFilters] = useState<Filters>(initialFilters);
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const integrationRecords = useMemo(() => data.records.filter((r) => filters.integration === ALL || r.integration === filters.integration), [filters.integration]);
+  const integrationRecords = useMemo(() => data.records.filter((r) => filters.integration === ALL || sameText(r.integration, filters.integration)), [filters.integration]);
   const availableYears = useMemo(() => [...new Set(integrationRecords.map((r) => r.year))].sort((a, b) => a - b), [integrationRecords]);
   const visibleRecords = useMemo(() => filterRecords(data.records, filters), [filters]);
   const visibleYears = filters.years.length ? filters.years.filter((y) => availableYears.includes(y)) : availableYears;
-  const metric = filters.integration === ALL ? 'registros' : (data.integrations.find((i) => i.name === filters.integration)?.metric ?? 'registros');
+  const metric = filters.integration === ALL ? 'registros' : (data.integrations.find((i) => sameText(i.name, filters.integration))?.metric ?? 'registros');
   const title = filters.integration === ALL ? 'Integraciones judiciales' : filters.integration;
   const subtitle = filters.integration === ALL
     ? 'Vista consolidada y desagregable por año, corte superior, sede y órgano jurisdiccional.'

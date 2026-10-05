@@ -1,5 +1,5 @@
 import type { Filters, RecordRow } from '../types';
-import { ALL, uniq } from '../lib/data';
+import { ALL, sameText, uniq } from '../lib/data';
 import { Icon } from './Icon';
 
 type Props = {
@@ -11,11 +11,11 @@ type Props = {
 };
 
 export function FiltersPanel({ records, filters, availableYears, onChange, onReset }: Props) {
-  const base = records.filter((r) => filters.integration === ALL || r.integration === filters.integration);
+  const base = records.filter((r) => filters.integration === ALL || sameText(r.integration, filters.integration));
   const csjs = uniq(base.map((r) => r.csj));
-  const byCsj = base.filter((r) => filters.csj === ALL || r.csj === filters.csj);
+  const byCsj = base.filter((r) => filters.csj === ALL || sameText(r.csj, filters.csj));
   const sedes = uniq(byCsj.map((r) => r.sede));
-  const bySede = byCsj.filter((r) => filters.sede === ALL || r.sede === filters.sede);
+  const bySede = byCsj.filter((r) => filters.sede === ALL || sameText(r.sede, filters.sede));
   const organos = uniq(bySede.map((r) => r.organo));
 
   const toggleYear = (year: number) => {

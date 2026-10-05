@@ -18,6 +18,47 @@ const CONFIG = [
   { sheet: 'sunarp', name: 'SUNARP', csj: 'distritoJudicial', year: 'Año', organo: 'x_nom_instancia', qty: 'Cant.Envios Sunarp', metric: 'Envíos SUNARP', extra: { tipo_instancia: 'Instancia' } },
 ];
 
+function cleanText(value) {
+  if (value == null) return null;
+  const result = String(value).normalize('NFKC').trim().replace(/\s+/g, ' ');
+  return result || null;
+}
+
+function textKey(value) {
+  return cleanText(value)?.toLocaleUpperCase('es-PE') ?? '';
+}
+
+function displayScore(value) {
+  if (!value) return -1;
+  const upper = value.toLocaleUpperCase('es-PE');
+  const lower = value.toLocaleLowerCase('es-PE');
+  if (value === upper && value !== lower) return 0;
+  if (value === lower && value !== upper) return 1;
+  return 2;
+}
+
+function canonicalizeField(records, field) {
+  const preferred = new Map();
+
+  for (const record of records) {
+    const value = cleanText(record[field]);
+    if (!value) continue;
+    const key = textKey(value);
+    const score = displayScore(value);
+    const current = preferred.get(key);
+    if (!current || score > current.score) preferred.set(key, { value, score });
+  }
+
+  for (const record of records) {
+    const value = cleanText(record[field]);
+    if (!value) {
+      record[field] = null;
+      continue;
+    }
+    record[field] = preferred.get(textKey(value))?.value ?? value;
+  }
+}
+
 const workbook = new ExcelJS.Workbook();
 await workbook.xlsx.readFile(sourcePath);
 
@@ -30,7 +71,7 @@ for (const cfg of CONFIG) {
     console.warn(`Omitida: no existe la hoja ${cfg.sheet}`);
     continue;
   }
-  const headerRow = sheet.getRow(1).values.slice(1).map((v) => String(v ?? '').trim());
+  const headerRow = sheet.getRow(1).values.slice(1).map((v) => cleanText(v) ?? '');
   const col = (name) => headerRow.indexOf(name) + 1;
   const required = [cfg.year, cfg.organo, cfg.qty].filter(Boolean);
   const missing = required.filter((name) => col(name) <= 0);
@@ -47,17 +88,25 @@ for (const cfg of CONFIG) {
       integration: cfg.name,
       sourceSheet: sheet.name,
       year: Number(year),
-      csj: cfg.csj ? String(row.getCell(col(cfg.csj)).value ?? '').trim() || null : null,
-      sede: cfg.sede ? String(row.getCell(col(cfg.sede)).value ?? '').trim() || null : null,
-      organo: cfg.organo ? String(row.getCell(col(cfg.organo)).value ?? '').trim() || null : null,
+      csj: cfg.csj ? cleanText(row.getCell(col(cfg.csj)).value) : null,
+      sede: cfg.sede ? cleanText(row.getCell(col(cfg.sede)).value) : null,
+      organo: cfg.organo ? cleanText(row.getCell(col(cfg.organo)).value) : null,
       cantidad: Number(qty),
     };
-    if (cfg.extra) for (const [key, source] of Object.entries(cfg.extra)) record[key] = String(row.getCell(col(source)).value ?? '').trim() || null;
+    if (cfg.extra) {
+      for (const [key, source] of Object.entries(cfg.extra)) {
+        record[key] = cleanText(row.getCell(col(source)).value);
+      }
+    }
     records.push(record);
     count += 1;
   }
   integrations.push({ name: cfg.name, sourceSheet: sheet.name, metric: cfg.metric, hasCSJ: Boolean(cfg.csj), hasSede: Boolean(cfg.sede), rows: count });
 }
+
+// Unifica variantes que solo difieren en mayúsculas/minúsculas o espacios.
+// Ej.: "Lima Este", "LIMA ESTE" y " lima   este " pasan a una sola etiqueta canónica.
+for (const field of ['csj', 'sede', 'organo']) canonicalizeField(records, field);
 
 const payload = {
   generatedAt: new Date().toISOString().slice(0, 10),
